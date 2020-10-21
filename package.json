@@ -1,0 +1,14 @@
+{
+  "name": "solc-error-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "solc": "0.7.1"
+  }
+}
